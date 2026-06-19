@@ -5,7 +5,7 @@
 Device I/O helpers for the PCMFlow family.
 
 PCMFlowDevice keeps board-specific audio behavior out of transport and codec
-libraries. The initial release provides `M5SpeakerBufferedPlayer`, a small
+libraries. It provides `M5SpeakerBufferedPlayer`, a small
 helper for M5Unified speaker playback.
 
 ## Why This Exists

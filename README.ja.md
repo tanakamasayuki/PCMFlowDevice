@@ -5,7 +5,7 @@
 PCMFlow ファミリー向けの device I/O helper ライブラリです。
 
 PCMFlowDevice は、ボード固有の audio API の癖を transport / codec
-ライブラリから分離します。初期版では M5Unified speaker 再生用の
+ライブラリから分離します。M5Unified speaker 再生用の
 `M5SpeakerBufferedPlayer` を提供します。
 
 ## なぜ必要か
