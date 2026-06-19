@@ -1,5 +1,7 @@
 # PCMFlowDevice
 
+[日本語](README.ja.md)
+
 Device I/O helpers for the PCMFlow family.
 
 PCMFlowDevice keeps board-specific audio behavior out of transport and codec

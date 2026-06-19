@@ -1,5 +1,7 @@
 # PCMFlowDevice 仕様
 
+[English](SPEC.md)
+
 ## 1. スコープ
 
 PCMFlowDevice は PCMFlow application 向けの device 固有 helper を提供します。

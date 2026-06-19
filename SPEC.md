@@ -1,5 +1,7 @@
 # PCMFlowDevice Specification
 
+[日本語](SPEC.ja.md)
+
 ## 1. Scope
 
 PCMFlowDevice contains device-specific helpers for PCMFlow applications.

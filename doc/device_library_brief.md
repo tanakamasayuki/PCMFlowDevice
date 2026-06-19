@@ -1,5 +1,7 @@
 # PCMFlowDevice Design Brief
 
+[日本語](device_library_brief.ja.md)
+
 PCMFlowDevice exists to keep device-specific audio behavior out of transport
 and codec libraries.
 

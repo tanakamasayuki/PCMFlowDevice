@@ -1,5 +1,7 @@
 # PCMFlowDevice
 
+[English](README.md)
+
 PCMFlow ファミリー向けの device I/O helper ライブラリです。
 
 PCMFlowDevice は、ボード固有の audio API の癖を transport / codec

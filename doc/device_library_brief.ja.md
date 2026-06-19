@@ -1,5 +1,7 @@
 # PCMFlowDevice 設計メモ
 
+[English](device_library_brief.md)
+
 PCMFlowDevice は、device 固有の audio 挙動を transport / codec ライブラリから分離するためのライブラリです。
 
 ## 境界
