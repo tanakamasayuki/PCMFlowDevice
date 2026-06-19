@@ -1,0 +1,44 @@
+# Syntax Coloring Map for PCMFlowDevice
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+M5SpeakerBufferedPlayer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+reset	KEYWORD2
+stop	KEYWORD2
+writableData	KEYWORD2
+writableFrames	KEYWORD2
+commitFrames	KEYWORD2
+writeFrames	KEYWORD2
+flush	KEYWORD2
+isReady	KEYWORD2
+hasStarted	KEYWORD2
+fillFrames	KEYWORD2
+targetFrames	KEYWORD2
+initialFrames	KEYWORD2
+chunkFrames	KEYWORD2
+chunks	KEYWORD2
+waits	KEYWORD2
+gapRisks	KEYWORD2
+overflowDrops	KEYWORD2
+drops	KEYWORD2
+lastSubmitMs	KEYWORD2
+lowLatencyProfile	KEYWORD2
+balancedProfile	KEYWORD2
+stableProfile	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PCMFLOWDEVICE_VERSION_MAJOR	LITERAL1
+PCMFLOWDEVICE_VERSION_MINOR	LITERAL1
+PCMFLOWDEVICE_VERSION_PATCH	LITERAL1
+PCMFLOWDEVICE_VERSION_STR	LITERAL1

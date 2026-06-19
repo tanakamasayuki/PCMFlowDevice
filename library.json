@@ -1,0 +1,29 @@
+{
+  "name": "PCMFlowDevice",
+  "version": "0.1.0",
+  "description": "Device I/O helpers for PCMFlow. Provides M5SpeakerBufferedPlayer for M5Unified Speaker.playRaw() buffered playback with rotating PCM buffers, prebuffer/chunk profiles, retry handling, and application-side diagnostics. Transport and codec logic stay in PCMFlowUDP and codec sibling libraries.",
+  "keywords": "audio, pcmflow, device, m5stack, m5unified, speaker, i2s, buffer",
+  "authors": [
+    {
+      "name": "TANAKA Masayuki",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanakamasayuki/PCMFlowDevice.git"
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "PCMFlowDevice.h",
+  "dependencies": [
+    {
+      "name": "PCMFlow",
+      "owner": "tanakamasayuki"
+    },
+    {
+      "name": "M5Unified"
+    }
+  ]
+}
